@@ -1,0 +1,13 @@
+.post-detail {
+  padding: 20px;
+}
+
+.edit-post-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #61dafb;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}

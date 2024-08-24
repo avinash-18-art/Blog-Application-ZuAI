@@ -1,0 +1,22 @@
+.post-list {
+  padding: 20px;
+}
+
+.post-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  margin: 10px 0;
+}
+
+.new-post-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #61dafb;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
